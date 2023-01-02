@@ -42,10 +42,13 @@ Projeto do processo seletivo da IPAM Amazônia, é uma SPA que foi desenvolvida 
 
 ![4](https://user-images.githubusercontent.com/105875989/210191177-f6ca2304-b464-49fb-8b37-c19e947ddcc3.png)
 <hr>
+
 ![5](https://user-images.githubusercontent.com/105875989/210191187-818f4873-3f6c-4baf-af23-1b6be518791b.png)
 <hr>
+
 ![6](https://user-images.githubusercontent.com/105875989/210191193-63593b4e-e449-46ba-be18-3f91c41ab823.png)
 <hr>
+
 ![7](https://user-images.githubusercontent.com/105875989/210191197-24ecd04b-9c3f-404e-a53a-0d7d2a30005e.png)
 <hr>
 
