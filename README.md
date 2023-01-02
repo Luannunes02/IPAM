@@ -1,7 +1,7 @@
 <h1 align="center">🖥️IPAM Amazônia🖥️</h1>
 <h2>Conheça a IPAM Amazônia</h2> 
 
-![ReactPosts](https://user-images.githubusercontent.com/105875989/203288653-8ef0682c-1dfd-44bc-9d09-89986613afcb.gif)
+![20230101_232742](https://user-images.githubusercontent.com/105875989/210191477-04b77c2c-b6c9-4396-96e1-398a9ccf649d.gif)
 
 <br>
 <br>
