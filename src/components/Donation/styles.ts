@@ -123,6 +123,7 @@ export const TitleDonationInfo = styled.h5`
 
 export const TextCardDonationInfo = styled.p`
     color: #00ff80;
+    margin-left: 0px;
     font-weight: bold;
     text-shadow: 4px 3px 0px rgba(0,0,0,0.6);
 `
@@ -189,34 +190,3 @@ export const SaveEarthSVG = styled.img`
         }
     }
 `
-
-/*
-.inputBox {
-    position: relative;
-}
-
-.inputUser {
-    background: rgb(53, 50, 50);
-    border: none;
-    border-bottom: 1px solid white;
-    font-size: 17px;
-    height: 100%;
-    width: 100%;
-}
-
-.labelin {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    pointer-events: none;
-    transition: .5s;
-}
-
-.inputUser:focus~.labelin,
-.inputUser:valid~.labelin {
-    top: -20px;
-    font-size: 12px;
-    color: rgb(255, 71, 71);
-}
-
-*/

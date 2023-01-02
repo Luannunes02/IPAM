@@ -203,43 +203,43 @@ export default function Donation() {
                     <TitleDonationInfo className='text-center col-5'>
                         Informações sobre sua doação:
                     </TitleDonationInfo>
-                    <TextCardDonationInfo className='ms-4 mb-0 col col-lg-6'>
+                    <TextCardDonationInfo className='ps-4 mb-0 col col-lg-6'>
                         Doador:
                         <SpanCardDonationInfo className='ms-2'>
                             {$inputName.value}
                         </SpanCardDonationInfo>
                     </TextCardDonationInfo>
-                    <TextCardDonationInfo className='ms-4 mb-0 col col-lg-6'>
+                    <TextCardDonationInfo className='ps-4 mb-0 col col-lg-6'>
                         Valor:
                         <SpanCardDonationInfo className='ms-2'>
                             {`${$inputValueDonatin.value} R$`}
                         </SpanCardDonationInfo>
                     </TextCardDonationInfo>
-                    <TextCardDonationInfo className='ms-4 mb-0 col col-lg-6'>
+                    <TextCardDonationInfo className='ps-4 mb-0 col col-lg-6'>
                         Microrregião:
                         <SpanCardDonationInfo className='ms-2'>
                             {localInformation.microrregiao.nome}
                         </SpanCardDonationInfo>
                     </TextCardDonationInfo>
-                    <TextCardDonationInfo className='ms-4 mb-0 col col-lg-6'>
+                    <TextCardDonationInfo className='ps-4 mb-0 col col-lg-6'>
                         Mesorregiao:
                         <SpanCardDonationInfo className='ms-2'>
                             {localInformation.microrregiao.mesorregiao.nome}
                         </SpanCardDonationInfo>
                     </TextCardDonationInfo>
-                    <TextCardDonationInfo className='ms-4 mb-0 col col-lg-6'>
+                    <TextCardDonationInfo className='ps-4 mb-0 col col-lg-6'>
                         Município:
                         <SpanCardDonationInfo className='ms-2'>
                             {citySelector}
                         </SpanCardDonationInfo>
                     </TextCardDonationInfo>
-                    <TextCardDonationInfo className='ms-4 mb-0 col col-lg-6'>
+                    <TextCardDonationInfo className='ps-4 mb-0 col col-lg-6'>
                         UF:
                         <SpanCardDonationInfo className='ms-2'>
                             {ufSelector}
                         </SpanCardDonationInfo>
                     </TextCardDonationInfo>
-                    <TextCardDonationInfo className='ms-4 mb-0 col col-lg-6'>
+                    <TextCardDonationInfo className='ps-4 mb-0 col col-lg-6'>
                         Região do municipio:
                         <SpanCardDonationInfo className='ms-2'>
                             {localInformation.microrregiao.mesorregiao.UF.regiao.nome + ' - ' + localInformation.microrregiao.mesorregiao.UF.regiao.sigla}

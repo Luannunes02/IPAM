@@ -6,6 +6,7 @@ import Header from './components/Header';
 import Donation from './components/Donation'
 import Posts from './components/Posts';
 import Introduction from './components/Introduction';
+import Footer from './components/Footer';
 
 import 'react-toastify/dist/ReactToastify.css';
 
@@ -17,6 +18,7 @@ function App() {
       <Introduction />
       <Donation />
       <Posts />
+      <Footer />
     </div>
   );
 }
