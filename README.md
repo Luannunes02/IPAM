@@ -30,35 +30,6 @@ Projeto do processo seletivo da IPAM Amazônia, é uma SPA que foi desenvolvida 
 <br>
 <br>
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
 <h2><strong> 🖼️ Imagens do projeto:</strong></h2> 
 
 ![1](https://user-images.githubusercontent.com/105875989/210191161-02c81622-8497-4d4d-a78f-41bd92c8fe8a.png)
@@ -86,4 +57,32 @@ Your app is ready to be deployed!
 
 <img align='center' style="width:100px; height: 100px;" alt='Luan' src='https://user-images.githubusercontent.com/105875989/202720555-79b37083-a2e8-47d6-8d43-5003323b22ff.jpeg'/>  
 <strong>Luan Nunes</strong> 
+
+
+# Introdução ao Create React App
+
+## Scripts Disponíveis
+
+No diretório do projeto, você pode rodar:
+
+### `npm start`
+
+Esse comando roda o app no modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para ver no seu navegador.
+
+A página ira recarregar novamente quando você fizer alguma alteração.\
+Você também pode ver erros de lint no console.
+
+### `npm test`
+
+Inicia o executor de teste no modo de observação interativo.\
+Veja uma seção sobre isso [running tests](https://facebook.github.io/create-react-app/docs/running-tests) para mais informação.
+
+### `npm run build`
+
+Constrói o aplicativo para produção para o `build` pasta.\
+Ele empacota corretamente o React no modo de produção e otimiza a compilação para o melhor desempenho.
+
+A compilação é minificada e os nomes dos arquivos incluem os hashes.\
+Seu app está pronto para deploy!
 
