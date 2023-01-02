@@ -6,7 +6,7 @@
 <br>
 <h2><strong> 📝 Descrição:</strong></h2>    
 
-Projeto do processo seletivo da IPAM Amazônia, é uma SPA que foi desenvolvida usando React + Redux, é uma página que faz uma breve introdução sobre o que é a IPAM Amazônia e logo após pede uma doação para ajudar com as pesquisas, no final da página possui uma parte de comentários sendo que é possivel que o usuário possa publicar algum comentário na página. <br>
+Projeto do processo seletivo da IPAM Amazônia, é uma SPA que foi desenvolvida usando React + Redux, é uma página que faz uma breve introdução sobre o que é a IPAM Amazônia e logo após pede uma doação para ajudar com as pesquisas, no final da página possui uma seção de comentários sendo que é possivel que o usuário possa publicar algum comentário na página. <br><br>
 <strong>Acesse o site e aproveite: https://ipam-delta.vercel.app </strong>
 <br>
 <br>
