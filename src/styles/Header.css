@@ -1,0 +1,19 @@
+.navbar {
+    width: 100vw;
+    background-color: #28b37e;
+    border-bottom: 4px solid #14591d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 120px;
+    height: 80px;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+.logo:hover {
+    filter: brightness(1.2);
+}
